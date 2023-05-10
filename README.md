@@ -2,7 +2,7 @@
 
 ![HitCount](https://hits.dwyl.com/vaporvee/discord-sdk-godot.svg)
 
-### :warning: This is an early version! MacOS support still doesn't work! In future versions there also will be invites, user info etc. very soon!
+### :warning: This is an early version! MacOS support still doesn't work! In future versions there also will be custom buttons,invites, user info etc. very soon!
 
 # Addon Usage :rocket:
 1. [Download the addon](https://github.com/vaporvee/discord-sdk-godot/releases/latest/download/ADDON-Discord-SDK-Godot.zip/)
